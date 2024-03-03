@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.account {
+    margin-bottom: 20px;
+}
+
+.account-info {
+    margin-bottom: 10px;
+}
+
+.account-balance {
+    font-weight: bold;
+}
